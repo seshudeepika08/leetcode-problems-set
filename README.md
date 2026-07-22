@@ -9,8 +9,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
