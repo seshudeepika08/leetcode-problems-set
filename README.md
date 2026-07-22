@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -26,9 +27,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/seshudeepika08/leetcode-problems-set/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
